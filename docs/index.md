@@ -1,6 +1,6 @@
-# project-name
+# test-ml-project
 
-A short description of your project.
+A test ML project for template validation.
 
 ## Overview
 
